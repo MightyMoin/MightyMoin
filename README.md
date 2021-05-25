@@ -37,7 +37,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=MightyMoin&show_icons=true&count_private=true&hide_title=true&include_all_commits=true&theme=react" alt="GitHub stats"  height="160px"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MightyMoin&layout=compact&langs_count=7&theme=react" alt="Most used Languages" height="160px" />
   
-  <img align="right" src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="100px" alt="github" />
+  <img src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="100px" alt="github" />
 </p>
 
 ### Languages
@@ -55,7 +55,7 @@
 
 ### Technologies
 
-<p align="left" >
+<p>
 <img align="left"  alt="React" height="20px" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img align="left" height="20px" alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img align="left"  alt="Express.js" height="20px" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
